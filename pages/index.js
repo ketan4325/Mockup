@@ -20,7 +20,7 @@ export default function Home() {
             </a>
           </div>
         </nav>
-        <div className="row mt-4 mx-3">
+        <div className="row mt-0 mx-3">
           <div className="col-12 col-md-6 px-0 px-md-5">
             <div className="mt-1 pt-1 mt-lg-5 pt-lg-5 d-flex flex-column justify-content-center">
               <h1 className="display-4 fw-bold">
