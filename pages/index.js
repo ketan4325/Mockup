@@ -37,7 +37,7 @@ export default function Home() {
           <div className="col-12 col-md-6 d-flex justify-content-center px-0 px-md-5 ">
             <form className="border border-primary rounded p-3 px-md-5 mt-4 mt-md-0 mb-5 mb-md-5 form">
               <div className="">
-                <label className="form-label mt-2" htmlFor="name">
+                <label className="form-label mt-0" htmlFor="name">
                   Full Name*
                 </label>
                 <div className="input-group">
@@ -56,7 +56,7 @@ export default function Home() {
               </div>
               <div className="">
                 <label
-                  className="form-label mt-4 mt-md-5"
+                  className="form-label mt-0 mt-md-5"
                   htmlFor="phoneNumber"
                 >
                   Phone Number*
