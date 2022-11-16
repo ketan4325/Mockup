@@ -1,0 +1,22 @@
+.main {
+  /* height: 100vh; */
+}
+.navbar-brand img {
+  width: 75%;
+}
+@media screen and (max-width: 767px) {
+  .form {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .form {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .form {
+    width: 60%;
+  }
+}
